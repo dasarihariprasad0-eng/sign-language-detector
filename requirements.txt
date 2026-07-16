@@ -1,8 +1,8 @@
 streamlit
+streamlit-webrtc
 opencv-python-headless
 mediapipe==0.10.35
 numpy
 pandas
-tensorflow==2.12.0
 Pillow
-python-dotenv
+av

@@ -33,7 +33,7 @@ keypoint_classifier = KeyPointClassifier()
 with open("slr/model/label.csv", encoding="utf-8-sig") as f:
     keypoint_classifier_labels = [row[0] for row in csv.reader(f)]
 
-cap = cv2.VideoCapture(0)
+cap = streamlit-webrtc
 
 stop = st.button("Stop Camera")
 
